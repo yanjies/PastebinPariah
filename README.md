@@ -56,3 +56,19 @@ while not AC:
 ---
 
 保持笨拙，保持愤怒，保持AC。  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yanjies/PastebinPariah/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yanjies/PastebinPariah/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/yanjies/PastebinPariah/tree/master/0017-letter-combinations-of-a-phone-number) |
+<!---LeetCode Topics End-->
