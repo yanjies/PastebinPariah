@@ -55,8 +55,6 @@ while not AC:
 
 ---
 
-保持笨拙，保持愤怒，保持AC。  
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
