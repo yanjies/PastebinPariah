@@ -66,6 +66,7 @@ while not AC:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yanjies/PastebinPariah/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/yanjies/PastebinPariah/tree/master/0131-palindrome-partitioning) |
+| [1252-break-a-palindrome](https://github.com/yanjies/PastebinPariah/tree/master/1252-break-a-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,4 +85,8 @@ while not AC:
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yanjies/PastebinPariah/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [1252-break-a-palindrome](https://github.com/yanjies/PastebinPariah/tree/master/1252-break-a-palindrome) |
 <!---LeetCode Topics End-->
