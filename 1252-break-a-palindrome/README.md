@@ -29,3 +29,10 @@ Of all the ways, &quot;aaccba&quot; is the lexicographically smallest.
 	<li><code>1 &lt;= palindrome.length &lt;= 1000</code></li>
 	<li><code>palindrome</code> consists of only lowercase English letters.</li>
 </ul>
+
+---
+👩‍💻
+
+2025.03.05 每日一题
+
+事实上，看见回文就应该立即反应到n//2的，回文中心这个point真的是神之一手
