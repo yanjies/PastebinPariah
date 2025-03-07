@@ -74,6 +74,7 @@ while not AC:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yanjies/PastebinPariah/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0077-combinations](https://github.com/yanjies/PastebinPariah/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yanjies/PastebinPariah/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/yanjies/PastebinPariah/tree/master/0131-palindrome-partitioning) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
