@@ -81,6 +81,7 @@ while not AC:
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yanjies/PastebinPariah/tree/master/0078-subsets) |
+| [0303-range-sum-query-immutable](https://github.com/yanjies/PastebinPariah/tree/master/0303-range-sum-query-immutable) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,4 +90,12 @@ while not AC:
 |  |
 | ------- |
 | [1252-break-a-palindrome](https://github.com/yanjies/PastebinPariah/tree/master/1252-break-a-palindrome) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yanjies/PastebinPariah/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yanjies/PastebinPariah/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
