@@ -76,6 +76,7 @@ while not AC:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yanjies/PastebinPariah/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/yanjies/PastebinPariah/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/yanjies/PastebinPariah/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/yanjies/PastebinPariah/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/yanjies/PastebinPariah/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/yanjies/PastebinPariah/tree/master/0131-palindrome-partitioning) |
@@ -90,6 +91,7 @@ while not AC:
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/yanjies/PastebinPariah/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/yanjies/PastebinPariah/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/yanjies/PastebinPariah/tree/master/0216-combination-sum-iii) |
 | [0303-range-sum-query-immutable](https://github.com/yanjies/PastebinPariah/tree/master/0303-range-sum-query-immutable) |
