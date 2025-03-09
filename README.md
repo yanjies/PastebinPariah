@@ -93,6 +93,7 @@ while not AC:
 | [0022-generate-parentheses](https://github.com/yanjies/PastebinPariah/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/yanjies/PastebinPariah/tree/master/0131-palindrome-partitioning) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/yanjies/PastebinPariah/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Array
 |  |
 | ------- |
@@ -107,6 +108,7 @@ while not AC:
 | [2179-most-beautiful-item-for-each-query](https://github.com/yanjies/PastebinPariah/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/yanjies/PastebinPariah/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/yanjies/PastebinPariah/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,4 +151,12 @@ while not AC:
 |  |
 | ------- |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yanjies/PastebinPariah/tree/master/1430-find-the-k-beauty-of-a-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/yanjies/PastebinPariah/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+## Matrix
+|  |
+| ------- |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/yanjies/PastebinPariah/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 <!---LeetCode Topics End-->
