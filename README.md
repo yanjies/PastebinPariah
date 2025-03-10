@@ -91,6 +91,7 @@ while not AC:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yanjies/PastebinPariah/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/yanjies/PastebinPariah/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/yanjies/PastebinPariah/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/yanjies/PastebinPariah/tree/master/0198-house-robber) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -134,6 +135,7 @@ while not AC:
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yanjies/PastebinPariah/tree/master/0070-climbing-stairs) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yanjies/PastebinPariah/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Sorting
@@ -161,4 +163,8 @@ while not AC:
 |  |
 | ------- |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/yanjies/PastebinPariah/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yanjies/PastebinPariah/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
