@@ -94,6 +94,7 @@ while not AC:
 | [0070-climbing-stairs](https://github.com/yanjies/PastebinPariah/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/yanjies/PastebinPariah/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/yanjies/PastebinPariah/tree/master/0198-house-robber) |
+| [0377-combination-sum-iv](https://github.com/yanjies/PastebinPariah/tree/master/0377-combination-sum-iv) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/yanjies/PastebinPariah/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Array
@@ -107,6 +108,7 @@ while not AC:
 | [0198-house-robber](https://github.com/yanjies/PastebinPariah/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/yanjies/PastebinPariah/tree/master/0216-combination-sum-iii) |
 | [0303-range-sum-query-immutable](https://github.com/yanjies/PastebinPariah/tree/master/0303-range-sum-query-immutable) |
+| [0377-combination-sum-iv](https://github.com/yanjies/PastebinPariah/tree/master/0377-combination-sum-iv) |
 | [0560-subarray-sum-equals-k](https://github.com/yanjies/PastebinPariah/tree/master/0560-subarray-sum-equals-k) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/yanjies/PastebinPariah/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/yanjies/PastebinPariah/tree/master/2179-most-beautiful-item-for-each-query) |
