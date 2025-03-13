@@ -93,6 +93,7 @@ while not AC:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yanjies/PastebinPariah/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/yanjies/PastebinPariah/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/yanjies/PastebinPariah/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/yanjies/PastebinPariah/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/yanjies/PastebinPariah/tree/master/0198-house-robber) |
@@ -107,6 +108,7 @@ while not AC:
 | [0039-combination-sum](https://github.com/yanjies/PastebinPariah/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/yanjies/PastebinPariah/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/yanjies/PastebinPariah/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/yanjies/PastebinPariah/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/yanjies/PastebinPariah/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yanjies/PastebinPariah/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/yanjies/PastebinPariah/tree/master/0198-house-robber) |
@@ -171,6 +173,7 @@ while not AC:
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/yanjies/PastebinPariah/tree/master/0064-minimum-path-sum) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/yanjies/PastebinPariah/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Memoization
 |  |
