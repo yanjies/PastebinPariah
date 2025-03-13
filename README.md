@@ -65,6 +65,7 @@ while not AC:
 | [2348-count-number-of-texts](https://github.com/yanjies/PastebinPariah/tree/master/2348-count-number-of-texts) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/yanjies/PastebinPariah/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yanjies/PastebinPariah/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ while not AC:
 | [1252-break-a-palindrome](https://github.com/yanjies/PastebinPariah/tree/master/1252-break-a-palindrome) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yanjies/PastebinPariah/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2348-count-number-of-texts](https://github.com/yanjies/PastebinPariah/tree/master/2348-count-number-of-texts) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yanjies/PastebinPariah/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -168,6 +170,7 @@ while not AC:
 |  |
 | ------- |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yanjies/PastebinPariah/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yanjies/PastebinPariah/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
