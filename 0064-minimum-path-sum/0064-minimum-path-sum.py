@@ -1,6 +1,6 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
-        m,n=len(grid),len(grid[0])
+        # m,n=len(grid),len(grid[0])
 
         @cache
         def dfs(i,j):
@@ -11,4 +11,4 @@ class Solution:
             
             return min(dfs(i-1,j)+grid[i-1][j],dfs(i,j-1)+grid[i][j-1])
         
-        return dfs(m-1,n-1)+grid[m-1][n-1]
+        return dfs(len(grid)-1,len(grid[0])-1)+grid[-1][-1]
