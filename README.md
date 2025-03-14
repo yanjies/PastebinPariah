@@ -90,6 +90,7 @@ while not AC:
 | [0090-subsets-ii](https://github.com/yanjies/PastebinPariah/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/yanjies/PastebinPariah/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/yanjies/PastebinPariah/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/yanjies/PastebinPariah/tree/master/0494-target-sum) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Dynamic Programming
 |  |
@@ -101,6 +102,7 @@ while not AC:
 | [0198-house-robber](https://github.com/yanjies/PastebinPariah/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yanjies/PastebinPariah/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/yanjies/PastebinPariah/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/yanjies/PastebinPariah/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/yanjies/PastebinPariah/tree/master/0747-min-cost-climbing-stairs) |
 | [2348-count-number-of-texts](https://github.com/yanjies/PastebinPariah/tree/master/2348-count-number-of-texts) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -119,6 +121,7 @@ while not AC:
 | [0216-combination-sum-iii](https://github.com/yanjies/PastebinPariah/tree/master/0216-combination-sum-iii) |
 | [0303-range-sum-query-immutable](https://github.com/yanjies/PastebinPariah/tree/master/0303-range-sum-query-immutable) |
 | [0377-combination-sum-iv](https://github.com/yanjies/PastebinPariah/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/yanjies/PastebinPariah/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yanjies/PastebinPariah/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/yanjies/PastebinPariah/tree/master/0747-min-cost-climbing-stairs) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/yanjies/PastebinPariah/tree/master/2138-sum-of-beauty-in-the-array) |
