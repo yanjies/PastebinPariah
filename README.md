@@ -105,6 +105,7 @@ while not AC:
 | [0377-combination-sum-iv](https://github.com/yanjies/PastebinPariah/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/yanjies/PastebinPariah/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/yanjies/PastebinPariah/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/yanjies/PastebinPariah/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/yanjies/PastebinPariah/tree/master/0747-min-cost-climbing-stairs) |
 | [2348-count-number-of-texts](https://github.com/yanjies/PastebinPariah/tree/master/2348-count-number-of-texts) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -127,6 +128,7 @@ while not AC:
 | [0377-combination-sum-iv](https://github.com/yanjies/PastebinPariah/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/yanjies/PastebinPariah/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/yanjies/PastebinPariah/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/yanjies/PastebinPariah/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/yanjies/PastebinPariah/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/yanjies/PastebinPariah/tree/master/0747-min-cost-climbing-stairs) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/yanjies/PastebinPariah/tree/master/2138-sum-of-beauty-in-the-array) |
