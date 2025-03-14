@@ -101,6 +101,7 @@ while not AC:
 | [0131-palindrome-partitioning](https://github.com/yanjies/PastebinPariah/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/yanjies/PastebinPariah/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yanjies/PastebinPariah/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/yanjies/PastebinPariah/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/yanjies/PastebinPariah/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/yanjies/PastebinPariah/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/yanjies/PastebinPariah/tree/master/0747-min-cost-climbing-stairs) |
@@ -120,6 +121,7 @@ while not AC:
 | [0213-house-robber-ii](https://github.com/yanjies/PastebinPariah/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/yanjies/PastebinPariah/tree/master/0216-combination-sum-iii) |
 | [0303-range-sum-query-immutable](https://github.com/yanjies/PastebinPariah/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/yanjies/PastebinPariah/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/yanjies/PastebinPariah/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/yanjies/PastebinPariah/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yanjies/PastebinPariah/tree/master/0560-subarray-sum-equals-k) |
@@ -177,6 +179,7 @@ while not AC:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/yanjies/PastebinPariah/tree/master/0322-coin-change) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/yanjies/PastebinPariah/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Matrix
 |  |
