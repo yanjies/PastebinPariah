@@ -139,6 +139,7 @@ while not AC:
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yanjies/PastebinPariah/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/yanjies/PastebinPariah/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/yanjies/PastebinPariah/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/yanjies/PastebinPariah/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/yanjies/PastebinPariah/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Bit Manipulation
@@ -175,6 +176,7 @@ while not AC:
 | [2179-most-beautiful-item-for-each-query](https://github.com/yanjies/PastebinPariah/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/yanjies/PastebinPariah/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/yanjies/PastebinPariah/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -186,6 +188,7 @@ while not AC:
 | [2179-most-beautiful-item-for-each-query](https://github.com/yanjies/PastebinPariah/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/yanjies/PastebinPariah/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yanjies/PastebinPariah/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/yanjies/PastebinPariah/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -214,4 +217,5 @@ while not AC:
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/yanjies/PastebinPariah/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/yanjies/PastebinPariah/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
