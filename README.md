@@ -115,6 +115,7 @@ while not AC:
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yanjies/PastebinPariah/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/yanjies/PastebinPariah/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/yanjies/PastebinPariah/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/yanjies/PastebinPariah/tree/master/0051-n-queens) |
@@ -178,6 +179,7 @@ while not AC:
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yanjies/PastebinPariah/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/yanjies/PastebinPariah/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Sliding Window
 |  |
