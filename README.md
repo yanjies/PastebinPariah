@@ -135,6 +135,7 @@ while not AC:
 | [0747-min-cost-climbing-stairs](https://github.com/yanjies/PastebinPariah/tree/master/0747-min-cost-climbing-stairs) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/yanjies/PastebinPariah/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/yanjies/PastebinPariah/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/yanjies/PastebinPariah/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yanjies/PastebinPariah/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/yanjies/PastebinPariah/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -172,6 +173,7 @@ while not AC:
 |  |
 | ------- |
 | [2179-most-beautiful-item-for-each-query](https://github.com/yanjies/PastebinPariah/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/yanjies/PastebinPariah/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Combinatorics
 |  |
@@ -182,6 +184,7 @@ while not AC:
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yanjies/PastebinPariah/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/yanjies/PastebinPariah/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/yanjies/PastebinPariah/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yanjies/PastebinPariah/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
@@ -207,4 +210,8 @@ while not AC:
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yanjies/PastebinPariah/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/yanjies/PastebinPariah/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
