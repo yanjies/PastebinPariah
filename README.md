@@ -136,6 +136,7 @@ while not AC:
 | [0907-koko-eating-bananas](https://github.com/yanjies/PastebinPariah/tree/master/0907-koko-eating-bananas) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/yanjies/PastebinPariah/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/yanjies/PastebinPariah/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2294-minimum-time-to-complete-trips](https://github.com/yanjies/PastebinPariah/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/yanjies/PastebinPariah/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yanjies/PastebinPariah/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/yanjies/PastebinPariah/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -188,6 +189,7 @@ while not AC:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yanjies/PastebinPariah/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/yanjies/PastebinPariah/tree/master/0907-koko-eating-bananas) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/yanjies/PastebinPariah/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2294-minimum-time-to-complete-trips](https://github.com/yanjies/PastebinPariah/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/yanjies/PastebinPariah/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yanjies/PastebinPariah/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yanjies/PastebinPariah/tree/master/2699-count-the-number-of-fair-pairs) |
