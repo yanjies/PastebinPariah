@@ -65,6 +65,7 @@ while not AC:
 | [2348-count-number-of-texts](https://github.com/yanjies/PastebinPariah/tree/master/2348-count-number-of-texts) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/yanjies/PastebinPariah/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/yanjies/PastebinPariah/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yanjies/PastebinPariah/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
@@ -142,6 +143,7 @@ while not AC:
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/yanjies/PastebinPariah/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yanjies/PastebinPariah/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/yanjies/PastebinPariah/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/yanjies/PastebinPariah/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/yanjies/PastebinPariah/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Bit Manipulation
