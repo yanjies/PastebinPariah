@@ -156,6 +156,7 @@ while not AC:
 |  |
 | ------- |
 | [1252-break-a-palindrome](https://github.com/yanjies/PastebinPariah/tree/master/1252-break-a-palindrome) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/yanjies/PastebinPariah/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Design
 |  |
 | ------- |
@@ -174,6 +175,7 @@ while not AC:
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yanjies/PastebinPariah/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2348-count-number-of-texts](https://github.com/yanjies/PastebinPariah/tree/master/2348-count-number-of-texts) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/yanjies/PastebinPariah/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Sorting
 |  |
 | ------- |
