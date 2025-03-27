@@ -76,6 +76,7 @@ while not AC:
 | [1252-break-a-palindrome](https://github.com/yanjies/PastebinPariah/tree/master/1252-break-a-palindrome) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yanjies/PastebinPariah/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2348-count-number-of-texts](https://github.com/yanjies/PastebinPariah/tree/master/2348-count-number-of-texts) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/yanjies/PastebinPariah/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yanjies/PastebinPariah/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Backtracking
 |  |
@@ -111,6 +112,7 @@ while not AC:
 | [0747-min-cost-climbing-stairs](https://github.com/yanjies/PastebinPariah/tree/master/0747-min-cost-climbing-stairs) |
 | [2348-count-number-of-texts](https://github.com/yanjies/PastebinPariah/tree/master/2348-count-number-of-texts) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/yanjies/PastebinPariah/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/yanjies/PastebinPariah/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/yanjies/PastebinPariah/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Array
@@ -157,6 +159,7 @@ while not AC:
 | ------- |
 | [1252-break-a-palindrome](https://github.com/yanjies/PastebinPariah/tree/master/1252-break-a-palindrome) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/yanjies/PastebinPariah/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [2817-minimum-cost-to-make-all-characters-equal](https://github.com/yanjies/PastebinPariah/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 ## Design
 |  |
 | ------- |
