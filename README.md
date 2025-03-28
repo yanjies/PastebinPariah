@@ -66,6 +66,7 @@ while not AC:
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/yanjies/PastebinPariah/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/yanjies/PastebinPariah/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2825-minimize-string-length](https://github.com/yanjies/PastebinPariah/tree/master/2825-minimize-string-length) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yanjies/PastebinPariah/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
@@ -77,6 +78,7 @@ while not AC:
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yanjies/PastebinPariah/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2348-count-number-of-texts](https://github.com/yanjies/PastebinPariah/tree/master/2348-count-number-of-texts) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/yanjies/PastebinPariah/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
+| [2825-minimize-string-length](https://github.com/yanjies/PastebinPariah/tree/master/2825-minimize-string-length) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/yanjies/PastebinPariah/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Backtracking
 |  |
