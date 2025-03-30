@@ -76,6 +76,7 @@ while not AC:
 | [0131-palindrome-partitioning](https://github.com/yanjies/PastebinPariah/tree/master/0131-palindrome-partitioning) |
 | [1252-break-a-palindrome](https://github.com/yanjies/PastebinPariah/tree/master/1252-break-a-palindrome) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/yanjies/PastebinPariah/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2232-adding-spaces-to-a-string](https://github.com/yanjies/PastebinPariah/tree/master/2232-adding-spaces-to-a-string) |
 | [2348-count-number-of-texts](https://github.com/yanjies/PastebinPariah/tree/master/2348-count-number-of-texts) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/yanjies/PastebinPariah/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
 | [2825-minimize-string-length](https://github.com/yanjies/PastebinPariah/tree/master/2825-minimize-string-length) |
@@ -141,6 +142,7 @@ while not AC:
 | [0907-koko-eating-bananas](https://github.com/yanjies/PastebinPariah/tree/master/0907-koko-eating-bananas) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/yanjies/PastebinPariah/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/yanjies/PastebinPariah/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2232-adding-spaces-to-a-string](https://github.com/yanjies/PastebinPariah/tree/master/2232-adding-spaces-to-a-string) |
 | [2294-minimum-time-to-complete-trips](https://github.com/yanjies/PastebinPariah/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/yanjies/PastebinPariah/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yanjies/PastebinPariah/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -229,6 +231,11 @@ while not AC:
 ## Two Pointers
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/yanjies/PastebinPariah/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/yanjies/PastebinPariah/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yanjies/PastebinPariah/tree/master/2699-count-the-number-of-fair-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/yanjies/PastebinPariah/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
