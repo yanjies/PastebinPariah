@@ -113,6 +113,7 @@ while not AC:
 | [0494-target-sum](https://github.com/yanjies/PastebinPariah/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/yanjies/PastebinPariah/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/yanjies/PastebinPariah/tree/master/0747-min-cost-climbing-stairs) |
+| [2262-solving-questions-with-brainpower](https://github.com/yanjies/PastebinPariah/tree/master/2262-solving-questions-with-brainpower) |
 | [2348-count-number-of-texts](https://github.com/yanjies/PastebinPariah/tree/master/2348-count-number-of-texts) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/yanjies/PastebinPariah/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2817-minimum-cost-to-make-all-characters-equal](https://github.com/yanjies/PastebinPariah/tree/master/2817-minimum-cost-to-make-all-characters-equal) |
@@ -143,6 +144,7 @@ while not AC:
 | [2138-sum-of-beauty-in-the-array](https://github.com/yanjies/PastebinPariah/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/yanjies/PastebinPariah/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/yanjies/PastebinPariah/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/yanjies/PastebinPariah/tree/master/2262-solving-questions-with-brainpower) |
 | [2294-minimum-time-to-complete-trips](https://github.com/yanjies/PastebinPariah/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/yanjies/PastebinPariah/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yanjies/PastebinPariah/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
