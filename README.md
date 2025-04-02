@@ -154,6 +154,7 @@ while not AC:
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/yanjies/PastebinPariah/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/yanjies/PastebinPariah/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/yanjies/PastebinPariah/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/yanjies/PastebinPariah/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Bit Manipulation
 |  |
 | ------- |
